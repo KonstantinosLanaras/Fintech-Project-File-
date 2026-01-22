@@ -11,7 +11,7 @@ library(car)
 
 setwd("C:/Users/mlong/Documents/Hackaton")
 
-data= read_excel("C:/Users/mlong/Documents/Hackaton/lending_club_loan_two 2.xlsx")
+data= read_excel("C:/Users/mlong/Documents/Hackaton/lending_club_loan_two_final.xlsx")
 
 clean_data= na.omit(data)
 
@@ -183,6 +183,7 @@ boxTidwell(Loan_status_num ~ income, data = Lineariry_df)
 
 # check for log-odd linearity and the ones that not comply the linearity transform into polinomial
 #create interaction terms 
+
 
 
 
