@@ -1,8 +1,0 @@
-# Fintech-Project-File-
-This repository contains all the ficntech projects I undertook during my time in Politecnico di Milano 
-GOLD vs S&P 500 - what is the role of GOLD in today's market
-In the attached file, my code formed the basis for a time series analysis of the role of Gold as an asset in the market today in light of the latest concurrent bull runs of the S&P 500 and GOLD. 
-The approach taken was: - recognise and compute BULL and BEAR market runs for GOLD and S&P 500
-                        - comupting the overlap ratio: to what extend market trends occurs simultaneoulsy
-                        - compute the correlation of the assets and fund anomalies
-A conclusion that GOLD still constitues a hedge for market volatility in case of negative events still holds as proven through the latest stress events in the correlation charts. A further study has been proposed to include the USD index and 30 year treasury yield index in order to deep dive more in the study as we observe a detioration of the USD's role is global markets spurting a jump in demand for gold by emerging economies' central banks and asset managers. 
