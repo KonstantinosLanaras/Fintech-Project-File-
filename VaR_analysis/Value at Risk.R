@@ -6,7 +6,7 @@ library(moments)
 library(dplyr)
 
 setwd("/Users/sboerema/Desktop/Algemeen/Fintech")
-stocks = read_excel("Quantatitive methods HW3.xlsx")
+stocks = read_excel("VaR_Dataset.xlsx")
 attach(stocks)
 View(stocks)
 
